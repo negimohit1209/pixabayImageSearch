@@ -1,3 +1,7 @@
+The app is live on: https://boiling-inlet-69037.herokuapp.com/
+Used: ReactJS and Pixabay API
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
